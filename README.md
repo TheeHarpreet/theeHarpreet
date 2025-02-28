@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harpreet!</h1>
 <h3 align="center">A passionate Computer Science Student from England</h3>
 <h4 align="center">:student: Studying Computer Science (Hons) at Leeds Beckett University, England <br/> </h3>
-<h4 align="center">:pencil2: Problem-solver and team player honed through the ambition of developing applications that not only have exceptional performance but deilvers value to its users <br/></h3>
+<h4 align="center">:pencil2: Problem-solver and team player honed through the ambition of developing applications that not only have exceptional performance but delivers value to its users <br/></h3>
 <h4 align="center">💭 Currently focusing on improving my skills in coding questions and partcipate in more open-source projects <br/></h3>
-<h4 align="center">❤️ Always try. Give it a go, if it fails, keep retrying until you've done it. <br/></h3>
+<h4 align="center">❤️ Always try. Give it a go, if it fails, keep retrying. <br/></h3>
 <h4 align="center">💻 Visit my [link to profile] for more details about me! <br/></h3>
 <h4 align="center"><br/>
   
