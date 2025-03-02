@@ -4,7 +4,7 @@
 <h4 align="center">:pencil2: Problem-solver and team player honed through the ambition of developing applications that not only have exceptional performance but delivers value to its users <br/></h3>
 <h4 align="center">💭 Currently focusing on improving my skills in coding questions and participate in more open-source projects <br/></h3>
 <h4 align="center">❤️ Always try. Give it a go, if it fails, keep retrying. <br/></h3>
-<h4 align="center">💻 Visit my [link to profile] for more details about me! <br/></h3>
+<h4 align="center">💻 Visit https://harpreet-roopra.netlify.app for more details about me! <br/></h3>
 <h4 align="center"><br/>
   
 # 💻 Tech Stack:
